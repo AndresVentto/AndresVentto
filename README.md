@@ -5,7 +5,9 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=TSU+en+Informática;Desarrollador+Full+Stack;Construyendo+interfaces+modernas;Implementando+lógica+de+negocio;Apasionado+por+la+Tecnología" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=700&<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=TSU+en+Informática;Desarrollador+Web+Full+Stack;Enfoque+en+Frontend+y+UI%2FUX;Experiencia+en+Backend+y+Lógica+de+Negocio;Apasionado+por+la+Tecnología+y+la+Web" />
+</p> />
 </p>
 
 ## 🚀 Sobre mí
