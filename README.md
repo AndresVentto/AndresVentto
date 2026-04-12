@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ¡Holaa! Soy Andrés
+# 👋🏼 ¡Hola! Soy Andrés
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=TSU+en+Informática;Desarrollador+FullStack;Especializado+en+Frontend;Apasionado+por+la+TI+y+la+Web" />
