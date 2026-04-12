@@ -1,14 +1,11 @@
 <h1>
   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="35">
-  ¡Hola! Mucho gusto,
+  ¡Hola! Mucho gusto, Soy Andrés Vento
 </h1>
 
-<h2 align="center">
-  Soy Andrés 👨‍💻
-</h2>
-
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=TSU+en+Informática;Desarrollador+FullStack;Especializado+en+Frontend;Apasionado+por+la+TI+y+la+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=TSU+en+Informática;Desarrollador+Full+Stack;Construyendo+interfaces+modernas;Implementando+lógica+de+negocio;Apasionado+por+la+Tecnología" />
 </p>
 
 ## 🚀 Sobre mí
