@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Andrés
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=#00FF00center=true&vCenter=true&width=600&lines=TSU+en+Informática+;Desarrollador+FullStack+;Especializado+en+Front;Apacionado+por+la+TI+y+la+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF00center=true&vCenter=true&width=600&lines=TSU+en+Informática+;Desarrollador+FullStack+;Especializado+en+Front;Apacionado+por+la+TI+y+la+Web" />
 </p>
 
 ---
