@@ -1,9 +1,15 @@
-# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="35"> ¡Hola! Soy Andrés
+<h1 align="center">
+  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="35"> 
+  ¡Hola! Soy Andrés
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=TSU+en+Informática;Desarrollador+FullStack;Especializado+en+Frontend;Apasionado+por+la+TI+y+la+Web" />
+  <strong>TSU en Informática • Desarrollador Full Stack</strong>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=Construyendo+soluciones+reales;Apasionado+por+la+IA+y+la+Web;Siempre+aprendiendo+nuevas+tecnologías" />
+</p>
 ---
 
 ## 🚀 Sobre mí
