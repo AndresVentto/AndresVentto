@@ -1,7 +1,11 @@
-# 👋 ¡Hola! Soy Andrés
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Andrés
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=TSU+en+Informática+;Desarrollador+FullStack+;Especializado+en+Front;Apacionado+por+la+TI+y+la+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=TSU+en+Informática;Desarrollador+FullStack;Especializado+en+Frontend;Apasionado+por+la+TI+y+la+Web" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQOqg7v6XK/giphy.gif" width="500">
 </p>
 
 ---
