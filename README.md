@@ -1,44 +1,60 @@
 # 👋 ¡Hola! Soy Andrés
 
-💻 Estudiante de Informática | Programador en formación  
-📍 Apasionado por el desarrollo web, la programación y la tecnología  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Informática;Desarrollador+Full+Stack+en+formación;Apasionado+por+la+IA+y+la+Web" />
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un estudiante enfocado en convertirme en desarrollador **Full Stack**, con interés en crear aplicaciones útiles, bien estructuradas y con buen diseño.
+Soy estudiante de Informática enfocado en convertirme en desarrollador **Full Stack**, con interés en construir sistemas funcionales, bien estructurados y con buenas bases (como se hacía antes: primero la lógica, luego el adorno 😄).
 
-Actualmente estoy trabajando en:
-- 🐾 Sistema de gestión para clínicas veterinarias
-- 🤖 Proyectos con Python e Inteligencia Artificial
-- 🌐 Desarrollo web con buenas prácticas de UI/UX
+Actualmente trabajo en:
+
+- 🐾 Sistema de gestión para clínicas veterinarias  
+- 🤖 Proyectos de Inteligencia Artificial con Python  
+- 🌐 Desarrollo web con enfoque en UI/UX  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tech Stack
 
-- 💻 Lenguajes:  
-  `HTML` `CSS` `JavaScript` `Python` `C++` `PHP`
+<p align="center">
 
-- 🧰 Herramientas:  
-  `Git` `GitHub` `XAMPP` `WAMP` `MySQL`
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-- 🎨 Frontend:  
-  `Tailwind CSS` `AdminLTE`
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📌 Proyectos destacados
 
 🔹 **Sistema de Gestión Veterinaria**  
-Aplicación web para gestionar citas, usuarios y productos en clínicas veterinarias.
+Web app para administración de citas, usuarios y productos.
 
 🔹 **Detector de Lenguaje de Señas**  
-Proyecto con IA que reconoce gestos en tiempo real.
+IA en Python para reconocimiento de gestos en tiempo real.
 
 🔹 **Portafolio Web Personal**  
-Sitio web donde muestro mis proyectos y habilidades.
+Mi vitrina de proyectos y habilidades.
 
 ---
 
@@ -47,17 +63,23 @@ Sitio web donde muestro mis proyectos y habilidades.
 - 📊 Investigación de Operaciones  
 - 🤖 Machine Learning  
 - ⚙️ Optimización de sistemas  
-- 🧠 Estructuras de datos y algoritmos  
+- 🧠 Algoritmos y Estructuras de Datos  
 
 ---
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: (coloca tu enlace aquí)
-- 📧 Email: (opcional)
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](TU_LINK)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)]
+
+</p>
 
 ---
 
 ## ⚡ Frase personal
 
-_"El que domina los fundamentos, domina el juego."_
+<p align="center">
+  <i>"El que domina los fundamentos, domina el juego."</i>
+</p>
