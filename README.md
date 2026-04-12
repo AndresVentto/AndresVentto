@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=Construyendo+soluciones+reales;Apasionado+por+la+IA+y+la+Web;Siempre+aprendiendo+nuevas+tecnologías" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=700&lines=Construyendo+soluciones+reales;Apasionado+por+la+IA+y+la+Web;Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
----
 
 ## 🚀 Sobre mí
 
