@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrés-vento-casseres" target="_blank"> 
+  <a href="https://www.linkedin.com/in/andrés-vento-casseres"> 
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="mailto:andresvento2004@gmail.com" target="_blank">
+  <a href="mailto:andresvento2004@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="TU_PORTAFOLIO" target="_blank">
+  <a href="TU_PORTAFOLIO" >
     <img src="https://img.shields.io/badge/Mi-Portafolio-78B954?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
 </p>
