@@ -1,10 +1,6 @@
-<h2>
+<h1 aling="center">
   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="40">
-  ¡Holaa!
-</h2>
-
-<h1 align="center">
-  Soy Andrés Vento
+  ¡Holaa! Soy Andrés Vento
 </h1>
 
 <p align="center">
