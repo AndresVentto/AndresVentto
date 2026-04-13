@@ -4,6 +4,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=4000&color=00FF41&background=000000&center=true&vCenter=true&width=800&lines=>+Initializing...;>+AndresVentto.exe;>+Loading+skills...;>+Frontend+UI%2FUX;>+Backend+Logic;>+System+Ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4500&color=00FF41&background=000000&center=true&vCenter=true&width=850&lines=>+TSU+en+Informatica;>+Full+Stack+Developer;>+Frontend+UI%2FUX;>+Backend+Logic;>+Tech+Enthusiast;>+Welcome" />
 </p>
-
