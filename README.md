@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndresVentto&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Andrés" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresVentto&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180" />
 </p>
 
 <br />
