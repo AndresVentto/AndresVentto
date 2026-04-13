@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrés-vento-casseres" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75dGt7h53gl4dJfhcKwHHRtf_HPZPBlZh8g&s=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &emsp;
   <a href="mailto:andresvento2004@gmail.com">
