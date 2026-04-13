@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrés-vento-casseres">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/andrés-vento-casseres" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:andresvento2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="TU_PORTAFOLIO_AQUÍ">
-    <img src="https://img.shields.io/badge/Portafolio-2ecc71?style=flat-square&logo=react&logoColor=white" alt="Portfolio">
+  <a href="TU_PORTAFOLIO_AQUÍ" target="_blank">
+    <img src="https://img.shields.io/badge/-Portafolio-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
