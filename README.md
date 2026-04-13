@@ -19,8 +19,10 @@
     <img src="https://img.shields.io/badge/-Portafolio-2ecc71?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
-<br/>
-# 🛠️ Mi Stack Tecnológico
+
+<br>
+
+## 🛠️ Mi Stack Tecnológico
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,mysql,postgres,git" />
 </p>
