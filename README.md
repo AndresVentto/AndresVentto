@@ -31,17 +31,17 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresVentto&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Andrés" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresVentto&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats de Andrés" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresVentto&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresVentto&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" alt="Lenguajes más usados" height="170" />
 </p>
 
 <br />
 
-## 🐍 Mi historial de contribuciones
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndresVentto/AndresVentto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndresVentto/AndresVentto/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndresVentto/AndresVentto/output/github-contribution-grid-snake.svg">
-</picture>
+<br />
+
+## 📈 Actividad Semanal
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresVentto&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
 
