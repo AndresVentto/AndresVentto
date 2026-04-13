@@ -24,5 +24,5 @@
 
 ## 🛠️ Mi Stack Tecnológico
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,php,python,java,mysql,postgres,git,wordpress,linux,bash" />
 </p>
