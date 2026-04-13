@@ -3,8 +3,16 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3800&color=61DBFB&center=true&&width=1000&height=70&lines=TSU+en+Informática;Desarrollador+Web+Full-Stack;Con+Enfoque+en+Frontend+UI%2FUX;Experiencia+en+Backend+y+Lógica+de+Negocios;Apasionado+por+la+Tecnología;The+Chambeo+Machine;Bienvenido+a+mi+Perfil+🤓" alt="Typing SVG" width="1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3800&color=61DBFB&center=false&vCenter=true&width=1000&height=70&lines=TSU+en+Informática;Desarrollador+Web+Full-Stack;Con+Enfoque+en+Frontend+UI%2FUX;Experiencia+en+Backend+y+Lógica+de+Negocios;Apasionado+por+la+Tecnología;The+Chambeo+Machine;Bienvenido+a+mi+Perfil+🤓" alt="Typing SVG" width="1000" />
 </p>
+
+### 🚀 Sobre mí
+
+Soy **Técnico Superior Universitario en Informática** y **Desarrollador Web Full Stack** con 4 años de experiencia. Utilizo tecnologías como **React, NodeJS, MySQL y PHP**. Destaco por mi capacidad para llevar cualquier diseño a la web y hacerlo **responsivo** con una interfaz **intuitiva**.
+
+---
+
+### 📩 ¡Conectemos!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andrés-vento-casseres" target="_blank">
@@ -23,25 +31,23 @@
 <br>
 
 ## 🛠️ Mi Stack Tecnológico
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,php,python,java,mysql,postgres,git,wordpress,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,php,python,java,mysql,postgres,git,linux,bash" />
 </p>
 
-<br />
+<br>
 
-## 📊 Estadísticas de GitHub
+## 📈 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresVentto&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndresVentto&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats de Andrés" height="170" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresVentto&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" alt="Lenguajes más usados" height="170" />
 </p>
-
-<br />
-
-<br />
-
-## 📈 Actividad Semanal
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresVentto&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
