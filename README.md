@@ -28,26 +28,8 @@ Soy **Técnico Superior Universitario en Informática** y **Desarrollador Web Fu
   </a>
 </p>
 
-<br>
-
 ## 🛠️ Mi Stack Tecnológico
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,php,python,java,mysql,postgres,git,linux,bash" />
-</p>
-
-<br>
-
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresVentto&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresVentto&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats de Andrés" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresVentto&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" alt="Lenguajes más usados" height="170" />
 </p>
