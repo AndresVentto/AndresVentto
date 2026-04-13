@@ -7,13 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9s-vento-casseres/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:andresvento200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="Mi_portafolio">
-    <img src="https://img.shields.io/badge/Portafolio-Web-00FF41?style=for-the-badge&logo=google-chrome">
-  </a>
+  🔗 <a href="TU_LINKEDIN">LinkedIn</a> • 
+  📧 <a href="mailto:TU_CORREO">Email</a> • 
+  🌐 <a href="TU_PORTAFOLIO">Portafolio</a>
 </p>
