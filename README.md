@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">
-
   <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/>_LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/>_Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black">
+    <img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="TU_PORTAFOLIO">
-    <img src="https://img.shields.io/badge/>_Portfolio-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black">
+    <img src="https://img.shields.io/badge/Portafolio-Web-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
-
 </p>
