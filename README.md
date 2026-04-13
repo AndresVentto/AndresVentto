@@ -7,7 +7,17 @@
 </p>
 
 <p align="center">
-  🔗 <a href="TU_LINKEDIN">LinkedIn</a> • 
-  📧 <a href="mailto:TU_CORREO">Email</a> • 
-  🌐 <a href="TU_PORTAFOLIO">Portafolio</a>
+
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/>_LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
+  
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/>_Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black">
+  </a>
+  
+  <a href="TU_PORTAFOLIO">
+    <img src="https://img.shields.io/badge/>_Portfolio-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black">
+  </a>
+
 </p>
