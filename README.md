@@ -21,6 +21,6 @@
 </p>
 
 # 🛠️ Mi Stack Tecnológico
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,mysql,postgres,git" />
 </p>
