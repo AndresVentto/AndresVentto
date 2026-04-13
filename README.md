@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/-Portafolio-2ecc71?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
-## 🛠️ Stack Tecnológico
 
+# 🛠️ Stack Tecnológico
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />&nbsp;
