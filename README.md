@@ -18,6 +18,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="TU_PORTAFOLIO">
-    <img src="https://img.shields.io/badge/Portafolio-Web-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black">
+    <img src="https://img.shields.io/badge/Mi-Portafolio-78B954?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
 </p>
