@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Holaa! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="40"> soy Andrés Vento
+  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="40"> ¡Holaa! soy Andrés Vento
 </h1>
 
 <p align="center">
@@ -26,3 +26,22 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,php,python,java,mysql,postgres,git,wordpress,linux,bash" />
 </p>
+
+<br />
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresVentto&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Andrés" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180" />
+</p>
+
+<br />
+
+## 🐍 Mi historial de contribuciones
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndresVentto/AndresVentto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndresVentto/AndresVentto/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndresVentto/AndresVentto/output/github-contribution-grid-snake.svg">
+</picture>
+
