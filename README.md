@@ -12,7 +12,7 @@ Soy **Técnico Superior Universitario en Informática** y **Desarrollador Web Fu
 
 ---
 
-### 📩 ¡Conectemos!
+### 💬 ¡Contactame!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andrés-vento-casseres" target="_blank">
