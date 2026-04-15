@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="35"> 
+  <img src="https://raw.githubusercontent.com/TU-USUARIO/TU-REPO/main/wave.gif" width="35"> 
   ¡Holaa! Soy Andrés Vento 👨🏻‍💻
 </h1>
 
