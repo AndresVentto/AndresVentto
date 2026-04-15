@@ -1,9 +1,14 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> ¡Holaa! soy Andrés Vento
+  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="35">
+  ¡Hola! Mucho gusto
 </h1>
 
+<p align="center">
+  <strong>Soy Andrés 👨‍💻</strong>
+</p>
+
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3800&color=61DBFB&center=false&vCenter=true&width=1000&height=70&lines=TSU+en+Informática;Desarrollador+Web+Full-Stack;Con+Enfoque+en+Frontend+UI%2FUX;Experiencia+en+Backend+y+Lógica+de+Negocios;Apasionado+por+la+Tecnología;The+Chambeo+Machine;Bienvenido+a+mi+Perfil+🤓" alt="Typing SVG" width="1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3800&color=61DBFB&center=false&vCenter=true&width=1000&height=70&lines=TSU+en+Informática;Desarrollador+Web+Full-Stack;Con+Enfoque+en+Frontend+UI%2FUX;Experiencia+en+Backend+y+Lógica+de+Negocios;Apasionado+por+la+Tecnología;The+Chambeo+Machine;Bienvenido+a+mi+Perfil+😀" alt="Typing SVG" width="1000" />
 </p>
 
 ### 🚀 Sobre mí
