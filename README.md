@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AndresVentto/AndresVentto/wave.gif" width="35"> 
+  <img src="https://raw.githubusercontent.com/AndresVentto/AndresVentto/main/wave.gif" width="35"> 
   ¡Holaa! Soy Andrés Vento 👨🏻‍💻
 </h1>
 
